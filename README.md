@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=높이&section=header&fontSize=텍스트크기" />
+
 
 ## HHHHHiiiiiii there 👋
 
@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimChungEon&theme=onedark)
+-->
+
 
 ![KimChungEon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimChungEon&count_private=true&show_icons=true&theme=onedark)
 
