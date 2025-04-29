@@ -1,7 +1,11 @@
-## Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=egg&color=auto&height=높이&section=header&fontSize=텍스트크기" />
+
+## HHHHHiiiiiii there 👋
+
 
 <!--
 **KimChungEon/KimChungEon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
@@ -14,3 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KimChungEon&theme=onedark)
+
+![KimChungEon's GitHub stats](https://github-readme-stats.vercel.app/api?username=KimChungEon&count_private=true&show_icons=true&theme=onedark)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=높이&section=footer&fontSize=텍스트크기" />
